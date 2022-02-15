@@ -1,5 +1,7 @@
-### JaeHyeok JANG 👋
+### JaeHyeok JANG 
+👋 Hello I am ``` frontEnd-developer ``` I work hard for my dream. 
 
+:trophy: Tech Stack :trophy:
 <!--
 **jangjaeH/jangjaeH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
