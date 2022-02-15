@@ -2,6 +2,7 @@
 👋 Hello I am ``` frontEnd-developer ``` I work hard for my dream. 
 
 :trophy: Tech Stack :trophy:
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
 <!--
 **jangjaeH/jangjaeH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
