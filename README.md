@@ -3,7 +3,7 @@
 
 :trophy: Tech Stack :trophy:
 
-<img src="https://img.shields.io/badge/?style=flat-square&logo=logoColor=JavaScript&yellow"/></a> 
+<img src="https://img.shields.io/badge/JS-FFFFFF?style=flat-square&logo=logoColor=JavaScript&yellow"/></a> 
 <!--
 **jangjaeH/jangjaeH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
